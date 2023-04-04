@@ -21,24 +21,3 @@ monitors:
     method: GET
     expectStatus: 200
     linkable: true
-
-  - id: aranet-com
-    name: aranet.com
-    url: 'https://aranet.com'
-    method: GET
-    expectStatus: 200
-    linkable: true
-
-  - id: saftehnika-com
-    name: saftehnika.com
-    url: 'https://saftehnika.com/'
-    method: GET
-    expectStatus: 200
-    linkable: true
-
-  - id: spectrumcompact-com
-    name: spectrumcompact.com
-    url: 'https://spectrumcompact.com/'
-    method: GET
-    expectStatus: 200
-    linkable: true
